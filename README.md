@@ -1,5 +1,5 @@
 **Insert-Catch-Game**
 
-This is an Insert catching game. On starting the game, you need to select your favourite insect and then catch it.
+This is a game of catching an insect. You must first choose your favorite insect before you can begin the game.
 
 https://webpage.pace.edu/RM47512N/Insert-Catch-Game/
